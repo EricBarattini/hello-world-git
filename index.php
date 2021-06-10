@@ -8,6 +8,7 @@
 </head>
 <body>
     <form action="#" method="get">
+    <input type="text" name="firstName" id="firstName">
     <input type="button" value="Enviar">
     </form>
 </body>
