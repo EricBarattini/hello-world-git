@@ -7,7 +7,10 @@
     <title>Esto es un titulo para el curso de git</title>
 </head>
 <body>
-    
+    <form action="#" method="get">
+    <input type="text" name="firstName" id="firstName">
+    <input type="button" value="Enviar">
+    </form>
 </body>
 </html><?php
 echo('look at me look at me I´m coding');
